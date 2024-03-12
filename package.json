@@ -1,0 +1,13 @@
+{
+  "name": "node.js-v16-on-replit-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "@discordjs/voice": "^0.15.0",
+    "body-parser": "^1.20.2",
+    "discord.js": "^13.2.0",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.11",
+    "node": "^16.10.0"
+  }
+}
